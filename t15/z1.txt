@@ -1,0 +1,47 @@
+html>
+
+
+	<head>
+
+		<title></title>
+
+		<style>
+			background-color: navy;
+			color:white;
+		</style>
+
+	</head>
+
+
+	<body>
+	<h1 align='center'>оцінки учнів</h1>
+	<table>
+	<tr>
+     <td>Ім'я</td>
+	 <td>Зарубіжна Література</td>
+	 <td>Математика</td>
+	 <td>Інформатика</td>
+	</tr>
+	<tr>
+     <td>Анна Цуркан</td>
+	 <td>9</td>
+	 <td>7</td>
+	 <td>10</td>
+	</tr>
+	<tr>
+     <td>Софія Сущик</td>
+	 <td>10</td>
+	 <td>7</td>
+	 <td>11</td>
+	</tr>
+	<td>Місюра Дарина</td>
+	 <td>9</td>
+	 <td>6</td>
+	 <td>9</td>
+	</tr>
+	<td>Сохан Михайло</td>
+	 <td>4</td>
+	 <td>3</td>
+	 <td>5</td>
+	</tr>
+	</table>
